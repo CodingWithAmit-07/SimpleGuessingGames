@@ -69,8 +69,8 @@ int main()
         cout << "YOU GOT IT!!" << endl;
     }
 
-    /* Medyo naguguluhan ako sa logic nitong Guessing Game.
-    I have to study it more. */
+    // Bit confused about this if/else loopp. I have to study it more.
+    
     cout << "..." << endl;
     cout << "..." << endl;
     cout << "..." << endl;
@@ -100,10 +100,9 @@ int main()
     cout << "..." << endl;
     cout << "..." << endl;
 
-    /* I like this counting part. Was able to figure out how to use pointers.
-    This is a great way to use pointer. laveeet
-    Aug 20, 2020
-    */
+    // I like this counting part. Was able to figure out how to use pointers here!
+    // Aug 20, 2020
+
 
     cout << "Thanks for playing! See yah!" << endl;
 
